@@ -2,4 +2,9 @@ This is Sample file 1
 
 Testing reset Commit 1
 This is Comparion lecture
+<<<<<<< Updated upstream
 This is Stash lecture, Change in main File 1
+=======
+This is Stash lecture, Change in File 1
+>>>>>>> Stashed changes
+This is Stash lecture, Change for untracked files in  File 1
